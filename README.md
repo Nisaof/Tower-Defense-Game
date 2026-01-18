@@ -109,12 +109,12 @@ TowerDefenseGame/
    ```
 
 2. **Ensure assets are in place**
-   - The `kenney_tower-defense-top-downn` folder should be in the parent directory
+   - The `PNG.zip` folder should be in the parent directory
    - Structure should be:
      ```
-     TowerDefense/
+     Tower-Defense-Game/
      ├──TowerDefenseGame/          # Your code
-     └── kenney_tower-defense-top-downn/  # Assets
+     └── PNG/  # Assets
      ```
 
 3. **Compile the game**
